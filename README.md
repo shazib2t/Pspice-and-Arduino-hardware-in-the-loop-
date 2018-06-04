@@ -12,3 +12,8 @@ peripheral circuitry necessary for operation. The physical parameter is sensed b
 This analog signal is fed to the Arduino board ADC pins which is then converted in to an equivalent digital quantity 
 and is further processed in the microcontroller. The raw digital signal or processed signal out of microcontroller will be displayed 
 on the Pspice simulation. This data is sent to computer through the USB serial port.
+
+Report: https://github.com/shazib2t/Pspice-and-Arduino-hardware-in-the-loop-/blob/master/Final%20Project_draft.docx
+
+Video: https://youtu.be/AGHiPV_OnBI
+
